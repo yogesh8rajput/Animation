@@ -4,4 +4,4 @@
   toggleBtn.addEventListener("click", function () {
     navbar1.classList.toggle("active");
   });
-
+//this code to the toggle button work
